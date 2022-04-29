@@ -8,6 +8,7 @@ This program requires StreamLit
 The application is a .py file which can be viewed by typing 'streamlit run pychain.py' into your terminal.
 
 Here are the other necessary libraries to import:
+
 ![](./screen_shots/imports.PNG)
 
 
